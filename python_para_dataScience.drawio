@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T17:46:34.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="E1sP5U5qBd66JOpLogJp" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T17:50:41.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="hz7JdcxrvBGqFrSKhFvf" version="20.4.2" type="github">
   <diagram id="zgF02QdWrkPLQGDMrmy9" name="Página-1">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -324,11 +324,26 @@
         <mxCell id="FWIDraDEKTNntkbHNwQt-118" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-112" target="FWIDraDEKTNntkbHNwQt-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-120" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-112" target="FWIDraDEKTNntkbHNwQt-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-112" value="es como una lista, pero son secuencias inmutables" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="1110" width="231" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-117" value="( )" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1120" width="40" height="20" as="geometry" />
+          <mxGeometry x="620" y="1110" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-119" value="tuple()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-121" value="Operaciones con secuencias" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="30" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-122" value="Métodos de secuencias" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="115" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-123" value="desempaquetado de tuplas" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="175" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
