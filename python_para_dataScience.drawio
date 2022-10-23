@@ -1,1 +1,136 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T14:18:34.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.4.2" etag="1GyBDct8voe48GrFZGSK" type="github"><diagram id="zgF02QdWrkPLQGDMrmy9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-23T14:34:53.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="I7L5nh0fgF0y7tbGxyLs" version="20.4.2" type="github">
+  <diagram id="zgF02QdWrkPLQGDMrmy9" name="Página-1">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FWIDraDEKTNntkbHNwQt-1" value="&lt;b&gt;PYTHON PARA DATA SCIENCE&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-3" value="biblioteca Numpy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-4" value="Biblioteca Pandas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-5" target="FWIDraDEKTNntkbHNwQt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-5" target="FWIDraDEKTNntkbHNwQt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-5" target="FWIDraDEKTNntkbHNwQt-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-5" target="FWIDraDEKTNntkbHNwQt-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-5" target="FWIDraDEKTNntkbHNwQt-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-5" target="FWIDraDEKTNntkbHNwQt-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-5" target="FWIDraDEKTNntkbHNwQt-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-5" target="FWIDraDEKTNntkbHNwQt-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-5" value="PYTHON" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-6" target="FWIDraDEKTNntkbHNwQt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-6" target="FWIDraDEKTNntkbHNwQt-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-6" target="FWIDraDEKTNntkbHNwQt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-6" value="lenguaje de programación" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="115" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-7" value="interpreatado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="70" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-8" value="Orientado a objetos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="115" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-9" value="de alto nivel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-11" value="Creado por: Guido van Rossum en 1991" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-12" target="FWIDraDEKTNntkbHNwQt-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-12" value="simplicidad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-13" value="Ayuda en la reducción del mantenimiento del código, del soporte a modulos y paquetes, fomenta la programación modularizada y reutilización de código" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-22" value="de código abierto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-24" value="amplio ecosistema de bibliotecas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="145" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-26" value="Compatibilidad. Funciona en la mayoría de los sistemas operativos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-29" value="Lenguaje popular para análisis de datos. Se convirtió en referencia dentro de la comunidad científica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-31" target="FWIDraDEKTNntkbHNwQt-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-31" value="aplicaciones escritas con python" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-32" value="Dropbox, Reddit, Instagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-35" target="FWIDraDEKTNntkbHNwQt-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-35" target="FWIDraDEKTNntkbHNwQt-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-35" value="Por que usar python para Data Science?" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="420" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-36" value="Para ciencia de datos existen otros lenguajes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="380" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-37" value="R,SAS, Matlab, etc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-38" target="FWIDraDEKTNntkbHNwQt-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-38" target="FWIDraDEKTNntkbHNwQt-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-38" target="FWIDraDEKTNntkbHNwQt-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-38" value="Características que han ayudado a la popularidad de python" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="460" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-41" value="Comunidad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-42" value="Fácil aprendizaje" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="490" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-43" value="Ecosistema de bibiliotecas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="530" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
