@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T21:31:38.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="M-j2U6j4Wk-T3bTAQ6pf" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T23:47:43.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="zOL46KIawEt4w2CFiuxn" version="20.4.2" type="github">
   <diagram id="zgF02QdWrkPLQGDMrmy9" name="Página-1">
     <mxGraphModel dx="1093" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -540,6 +540,9 @@
         <mxCell id="FWIDraDEKTNntkbHNwQt-195" value="&lt;b&gt;DIFERENCIA ENTRE VECTORES, MATRICES Y ARRAYS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="80" y="2410" width="205" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-280" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-196" target="FWIDraDEKTNntkbHNwQt-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-196" value="&lt;i&gt;Canal de youtube: Benito Sebastian&lt;br&gt;titulo: Difference between Vectors, Matrices &amp;amp; arrays&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="40" y="2360" width="305" height="20" as="geometry" />
         </mxCell>
@@ -696,7 +699,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-246" value="&lt;b&gt;Arrays vs lists&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="57.5" y="2970" width="135" height="50" as="geometry" />
+          <mxGeometry x="57.5" y="2990" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-251" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-247" target="FWIDraDEKTNntkbHNwQt-250">
           <mxGeometry relative="1" as="geometry" />
@@ -735,7 +738,7 @@
           <mxGeometry x="385" y="3040" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-255" value="array son mejores que las listas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="62.5" y="2878" width="127.5" height="32" as="geometry" />
+          <mxGeometry x="112.5" y="2923" width="127.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-259" value="oficialmente se le conoce como: N-dimensional Array" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="660" y="2908" width="147.5" height="30" as="geometry" />
@@ -778,6 +781,9 @@
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-277" value="depende de tu hardware y de tu sistema operativo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="635" y="3370" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-279" value="&lt;i&gt;Canal de youtube: Python Simplified&lt;br&gt;titulo: ultimate guide to NumPy Arrays&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2830" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
