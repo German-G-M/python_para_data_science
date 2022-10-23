@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T14:34:53.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="I7L5nh0fgF0y7tbGxyLs" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T16:54:08.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="JWNSIqQcBm8-6SvZ4NVQ" version="20.4.2" type="github">
   <diagram id="zgF02QdWrkPLQGDMrmy9" name="Página-1">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,6 +35,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-5" target="FWIDraDEKTNntkbHNwQt-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-5" target="FWIDraDEKTNntkbHNwQt-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-5" value="PYTHON" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -74,7 +77,7 @@
           <mxGeometry x="350" y="220" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-22" value="de código abierto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="90" width="110" height="30" as="geometry" />
+          <mxGeometry x="20" y="120" width="110" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-24" value="amplio ecosistema de bibliotecas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="145" width="110" height="30" as="geometry" />
@@ -101,13 +104,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-35" value="Por que usar python para Data Science?" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="420" width="130" height="30" as="geometry" />
+          <mxGeometry x="50" y="420" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-36" target="FWIDraDEKTNntkbHNwQt-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-36" value="Para ciencia de datos existen otros lenguajes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="380" width="110" height="50" as="geometry" />
+          <mxGeometry x="220" y="380" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-37" value="R,SAS, Matlab, etc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="360" width="110" height="40" as="geometry" />
+          <mxGeometry x="359" y="360" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-38" target="FWIDraDEKTNntkbHNwQt-41">
           <mxGeometry relative="1" as="geometry" />
@@ -119,16 +125,123 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-38" value="Características que han ayudado a la popularidad de python" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="460" width="110" height="50" as="geometry" />
+          <mxGeometry x="210" y="470" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-41" value="Comunidad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="450" width="110" height="30" as="geometry" />
+          <mxGeometry x="360" y="450" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-42" value="Fácil aprendizaje" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="490" width="110" height="20" as="geometry" />
+          <mxGeometry x="390" y="490" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-43" value="Ecosistema de bibiliotecas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="530" width="110" height="20" as="geometry" />
+          <mxGeometry x="370" y="530" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-48" target="FWIDraDEKTNntkbHNwQt-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-48" target="FWIDraDEKTNntkbHNwQt-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-48" target="FWIDraDEKTNntkbHNwQt-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-48" target="FWIDraDEKTNntkbHNwQt-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-48" value="Paquetes para Data Science" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="190" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-49" value="Numpy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="260" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-50" value="Pandas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="260" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-51" value="Scikit-learn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="260" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-52" value="Matplotlib" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="260" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-59" target="FWIDraDEKTNntkbHNwQt-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-59" value="Ambiente de desarrollo" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="320" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-60" target="FWIDraDEKTNntkbHNwQt-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-60" value="Google Colab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="380" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-61" target="FWIDraDEKTNntkbHNwQt-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-61" value="servicio de nube gratuito basado en el proyecto jupyter Nortebook" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="645" y="390" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-64" target="FWIDraDEKTNntkbHNwQt-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-64" value="&lt;b&gt;Jupyter notebook&lt;/b&gt; es una aplicación web abierta que permite crear y compartir documentos que contienen código activo, ecuaciones, visualizaciones y textos explicativos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="470" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-66" value="&lt;b&gt;Notebook &lt;/b&gt;es un documento compuesto&amp;nbsp; por celdas que pueden contener código ejecutable y otros elementos (textos , ecuaciones, imágenes, links, etc)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="584.5" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-68" target="FWIDraDEKTNntkbHNwQt-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-68" value="Operadores" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="614.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-69" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;+, -, *, /, //, %, **&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="619.5" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-72" target="FWIDraDEKTNntkbHNwQt-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-72" value="Expresiones matemáticas" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="680" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-75" target="FWIDraDEKTNntkbHNwQt-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-75" value="Operaciones que contienen más de un operador" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="680" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-77" value="&lt;ul&gt;&lt;li&gt;Se evalúa primero todo lo que está dentro de un parentesis. Así forzamos las operacioens&lt;/li&gt;&lt;li&gt;El operador de potencia (**) tiene el &lt;b&gt;orden de prioridad&lt;/b&gt; más elevado&lt;/li&gt;&lt;li&gt;Luego vienen los operadores de multiplicación (*) y división (/)&lt;/li&gt;&lt;li&gt;y por ultimo se evalúan la suma (+) y la resta (-)&lt;/li&gt;&lt;li&gt;Si los operadores tienen el mismo orden, se evalúa la operación de izquierda a derecha.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="720" width="415" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-79" target="FWIDraDEKTNntkbHNwQt-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-79" target="FWIDraDEKTNntkbHNwQt-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-79" target="FWIDraDEKTNntkbHNwQt-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-79" value="variables" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="740" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-80" value="pueden empezar con :[a-z],[A-Z] o guión bajo (_)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="750" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-82" value="Case sensitive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="790" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-84" value="palabras reservadas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="810" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-85" value="fuertemente tipado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="110" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-88" value="Formato de strings" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="940" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
