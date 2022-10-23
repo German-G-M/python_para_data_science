@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T17:50:41.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="hz7JdcxrvBGqFrSKhFvf" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T19:15:35.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0s1X8Wq6pAZQBl1Yp7sj" version="20.4.2" type="github">
   <diagram id="zgF02QdWrkPLQGDMrmy9" name="Página-1">
-    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -344,6 +344,132 @@
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-123" value="desempaquetado de tuplas" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="175" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-129" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-124" target="FWIDraDEKTNntkbHNwQt-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-124" value="Trabajando con diccionarios&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="870" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-130" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-125" target="FWIDraDEKTNntkbHNwQt-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-125" value="Creando diccioanrios" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-126" value="son estructuras de datos que representan un tipo de mapeo. Son colecciones de asociaciones entre pares de valores (key, value)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-132" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-128" target="FWIDraDEKTNntkbHNwQt-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-135" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-128" target="FWIDraDEKTNntkbHNwQt-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-128" value="Funciones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="870" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-131" value="built-in functions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="350" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-138" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-134" target="FWIDraDEKTNntkbHNwQt-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-139" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-134" target="FWIDraDEKTNntkbHNwQt-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-143" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-134" target="FWIDraDEKTNntkbHNwQt-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-134" value="Creando funciones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="430" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-136" value="sin argumentos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="360" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-137" value="con argumentos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="400" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-145" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-140" target="FWIDraDEKTNntkbHNwQt-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-140" value="Funciones lambda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="860" y="574.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-141" value="que devuelven un valor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="440" width="139" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-142" value="que devuelven más de un valor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="480" width="139" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-144" value="Son otra forma de generar objetos de funciones a parte de la intrucción def" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="575" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-154" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-146" target="FWIDraDEKTNntkbHNwQt-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-155" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-146" target="FWIDraDEKTNntkbHNwQt-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-156" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-146" target="FWIDraDEKTNntkbHNwQt-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-160" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-146" target="FWIDraDEKTNntkbHNwQt-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-146" value="&lt;b&gt;biblioteca Numpy&lt;/b&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-147" value="Biblioteca Pandas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="655" y="1260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-148" value="Numpy= Numerical Python" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1190" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-150" value="biblioteca más importante para el procesamiento numérico en python" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1250" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-157" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-151" target="FWIDraDEKTNntkbHNwQt-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-151" value="Recursos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="1320" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-153" value="&lt;ul&gt;&lt;li&gt;Poderoso objeto array multidimensional&lt;/li&gt;&lt;li&gt;Funciones matemáticas sofisticadas para operaciones con arrays sin la necesidad de la utilización de ciclos for&lt;/li&gt;&lt;li&gt;Recursos de algebra lineal y generación de números aleatorios&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1290" width="187" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-158" value="En la manipulación y almacenamiento de datos numéricos, los arrays NumPy &lt;b&gt;son significativamente más efecientes&lt;/b&gt; que las estructuras básics de Python (listas, tuplas, etc)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1380" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-168" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-161" target="FWIDraDEKTNntkbHNwQt-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-161" value="importando toda la biblioteca" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1530" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-169" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-162" target="FWIDraDEKTNntkbHNwQt-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-162" value="importando parte de la biblioteca" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1610" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-163" value="import numpy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1530" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-165" value="from numpy import arange" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="1615" width="162.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-170" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-166" target="FWIDraDEKTNntkbHNwQt-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-166" value="importando toda la biblioteca y atribuyendo un nuevo nombre" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1670" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-167" value="import numpy as np" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1685" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-171" value="Arrays NumPY" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1490" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
