@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T01:07:53.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="DEn_IBq7tJCp-c2doKHX" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T03:49:10.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="7tPcH_5njnIXERLkDxNq" version="20.4.2" type="github">
   <diagram id="zgF02QdWrkPLQGDMrmy9" name="Página-1">
     <mxGraphModel dx="1093" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -537,7 +537,7 @@
         <mxCell id="FWIDraDEKTNntkbHNwQt-194" value="Es una herramienta indispensable para el profesional de Data Science" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1078" y="1180" width="182" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FWIDraDEKTNntkbHNwQt-195" value="&lt;b&gt;DIFERENCIA ENTRE VECTORES, MATRICES Y ARRAYS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="FWIDraDEKTNntkbHNwQt-195" value="&lt;b&gt;DIFERENCIA ENTRE VECTORES, MATRICES Y ARRAYS&lt;/b&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="80" y="2410" width="205" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-280" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-196" target="FWIDraDEKTNntkbHNwQt-195">
@@ -944,25 +944,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-331" value="0D tensor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="62.5" y="2520" width="110" height="30" as="geometry" />
+          <mxGeometry x="140" y="2520" width="61.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-334" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-333" target="FWIDraDEKTNntkbHNwQt-282">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-333" value="1D tensor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="62.5" y="2590" width="110" height="30" as="geometry" />
+          <mxGeometry x="140" y="2590" width="61.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-336" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-335" target="FWIDraDEKTNntkbHNwQt-286">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-335" value="2D tensor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="66.25" y="2730" width="110" height="30" as="geometry" />
+          <mxGeometry x="130" y="2730" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-338" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-337" target="FWIDraDEKTNntkbHNwQt-328">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-337" value="3D tensor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="70" y="2870" width="110" height="30" as="geometry" />
+          <mxGeometry x="140" y="2870" width="68.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-352" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-339" target="FWIDraDEKTNntkbHNwQt-350">
           <mxGeometry relative="1" as="geometry" />
@@ -1005,6 +1005,12 @@
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-354" value="tipo de dato contenido en el tensor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="395" y="3060" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-356" value="rank=0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2520" width="61.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-357" value="rank=1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2590" width="61.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
