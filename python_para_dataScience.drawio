@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T19:53:21.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="DQcBR5yyLKO3dgYIVeor" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T19:56:45.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="UNUniYu424S3L6WPIw7p" version="20.4.2" type="github">
   <diagram id="zgF02QdWrkPLQGDMrmy9" name="Página-1">
-    <mxGraphModel dx="1093" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -300,7 +300,7 @@
         <mxCell id="FWIDraDEKTNntkbHNwQt-109" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-103" target="FWIDraDEKTNntkbHNwQt-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FWIDraDEKTNntkbHNwQt-103" value="Secuencia de valores de cualquier tipo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FWIDraDEKTNntkbHNwQt-103" value="Secuencia de &lt;b&gt;valores de cualquier tip&lt;/b&gt;o" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="1060" width="231" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-104" value="[ ]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -327,7 +327,7 @@
         <mxCell id="FWIDraDEKTNntkbHNwQt-120" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-112" target="FWIDraDEKTNntkbHNwQt-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FWIDraDEKTNntkbHNwQt-112" value="es como una lista, pero son secuencias inmutables" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FWIDraDEKTNntkbHNwQt-112" value="es como una lista, pero son &lt;b&gt;secuencias inmutable&lt;/b&gt;s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="1110" width="231" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-117" value="( )" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
