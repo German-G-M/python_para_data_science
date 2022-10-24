@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T03:49:10.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="7tPcH_5njnIXERLkDxNq" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T14:04:33.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="aF9OnHoTriykwKMJeaQg" version="20.4.2" type="github">
   <diagram id="zgF02QdWrkPLQGDMrmy9" name="Página-1">
-    <mxGraphModel dx="1093" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -426,7 +426,16 @@
         <mxCell id="FWIDraDEKTNntkbHNwQt-193" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-147" target="FWIDraDEKTNntkbHNwQt-191">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FWIDraDEKTNntkbHNwQt-147" value="Biblioteca Pandas" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FWIDraDEKTNntkbHNwQt-358" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-147" target="FWIDraDEKTNntkbHNwQt-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-360" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-147" target="FWIDraDEKTNntkbHNwQt-359">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-362" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-147" target="FWIDraDEKTNntkbHNwQt-361">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-147" value="&lt;b&gt;Biblioteca Pandas&lt;/b&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="1210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-148" value="Numpy= Numerical Python" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -528,14 +537,14 @@
         <mxCell id="FWIDraDEKTNntkbHNwQt-189" value="Operaciones aritméticas con arrays NumPy" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="2120" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FWIDraDEKTNntkbHNwQt-190" value="Es un paquete de python que tiene estructuras de manipulación&amp;nbsp; de datos de alto nivel, teniendo como base la bibliotéca de numpy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="1245" width="210" height="60" as="geometry" />
+        <mxCell id="FWIDraDEKTNntkbHNwQt-190" value="Es un paquete de python que tiene estructuras de &lt;b&gt;manipulación&amp;nbsp; de datos de alto nivel,&lt;/b&gt; teniendo como base la bibliotéca de numpy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1186" y="1230" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-191" value="El paquete puede ser visto como una combinación de los recursos de manipulación de datos encontrados en planillas y bancos de datos relacionales con el alto desempeño de arrays del paquete NumPy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1320" width="210" height="100" as="geometry" />
+          <mxGeometry x="1170" y="1305" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-194" value="Es una herramienta indispensable para el profesional de Data Science" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1078" y="1180" width="182" height="30" as="geometry" />
+          <mxGeometry x="1100" y="1185" width="182" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-195" value="&lt;b&gt;DIFERENCIA ENTRE VECTORES, MATRICES Y ARRAYS&lt;/b&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="80" y="2410" width="205" height="50" as="geometry" />
@@ -789,7 +798,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-279" value="&lt;i&gt;Canal de youtube: Python Simplified&lt;br&gt;titulo: ultimate guide to NumPy Arrays&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="11.25" y="3117" width="230" height="30" as="geometry" />
+          <mxGeometry x="15" y="3140" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-283" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-282" target="FWIDraDEKTNntkbHNwQt-198">
           <mxGeometry relative="1" as="geometry" />
@@ -1011,6 +1020,228 @@
         </mxCell>
         <mxCell id="FWIDraDEKTNntkbHNwQt-357" value="rank=1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="20" y="2590" width="61.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-359" value="Sus estructuras de datos son facilmente utilizadas por las principales bibliotecas de análisi del lenguaje Python" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1290" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-365" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-361" target="FWIDraDEKTNntkbHNwQt-363">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-366" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-361" target="FWIDraDEKTNntkbHNwQt-364">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-361" value="Estructuras de datos de pandas" style="text;html=1;strokeColor=#b85450;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1430" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-371" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-363" target="FWIDraDEKTNntkbHNwQt-370">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-363" value="series" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1450" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-369" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-364" target="FWIDraDEKTNntkbHNwQt-367">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-374" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-364" target="FWIDraDEKTNntkbHNwQt-373">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-376" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-364" target="FWIDraDEKTNntkbHNwQt-375">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-378" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-364" target="FWIDraDEKTNntkbHNwQt-377">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-380" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-364" target="FWIDraDEKTNntkbHNwQt-379">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-382" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-364" target="FWIDraDEKTNntkbHNwQt-381">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-364" value="DataFrame" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1550" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-367" value="operaciones básicas con un dataFrame" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1630" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-368" value="&lt;i&gt;alura LATAM&lt;br&gt;titulo: PYTHON PARA DATA SCIENCE&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="305" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-370" value="arrays unidimensionales etiquetados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="1450" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-373" value="Estructura de datos&amp;nbsp; tabular bidimensional conetiquetas en las lineas y columnas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1341" y="1490" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-375" value="pueden almacenar cualquier tipo de datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1346" y="1560" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-377" value="Indexación y Selecciones con DataFrames" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1685" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-379" value="Queries con dataframes" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1685" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-381" value="iterando con dataframes" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1585" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-383" value="&lt;b&gt;OBTENCIÓN DE ESTADÍSTICAS DESCRIPTIVAS&lt;/b&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="1215" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-401" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-384" target="FWIDraDEKTNntkbHNwQt-385">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-384" value="Media aritmética" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1325" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-389" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-385" target="FWIDraDEKTNntkbHNwQt-386">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-390" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-385" target="FWIDraDEKTNntkbHNwQt-388">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-385" value="mean()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="1290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-386" value="el método mean() retorna el &lt;b&gt;valor de la media&amp;nbsp;aritmética&lt;/b&gt;&amp;nbsp;de un conjunto de datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="2009" y="1215" width="131" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-388" value="Puede ser aplicado en objetos series y dataframes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="1295" width="131" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-402" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-391" target="FWIDraDEKTNntkbHNwQt-392">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-391" value="Mediana" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-399" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-392" target="FWIDraDEKTNntkbHNwQt-393">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-400" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-392" target="FWIDraDEKTNntkbHNwQt-398">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-392" value="median()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="1390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-396" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-393" target="FWIDraDEKTNntkbHNwQt-394">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-393" value="El método median() retorna el valor de la mediana de un conjunto de datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="1367.5" width="131" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-397" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-394" target="FWIDraDEKTNntkbHNwQt-395">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-394" value="o sea el valor que separa los datos ordenados en 2 dos partes iguales&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="1367.5" width="131" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-395" value="50% de datos abajo de este valor y 50% de datos arriba de este valor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="1365" width="131" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-398" value="Puede ser aplicado en objetos series y dataframes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="2009" y="1450" width="131" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-410" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-403" target="FWIDraDEKTNntkbHNwQt-405">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-403" value="Desviación estándar" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-411" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-405" target="FWIDraDEKTNntkbHNwQt-407">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-412" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-405" target="FWIDraDEKTNntkbHNwQt-406">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-405" value="std()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="1520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-406" value="Puede ser aplicado en objetos series y dataframes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="1600" width="131" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-409" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-407" target="FWIDraDEKTNntkbHNwQt-408">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-407" value="El método std()&amp;nbsp; retorna la desviación estandar de un conjunto de datos.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="1525" width="131" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-408" value="La desviación estandar &lt;b&gt;mide el grado de dispersión&amp;nbsp;&amp;nbsp;de un conjunto de datos en relación a su medi&lt;/b&gt;a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="1510" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-416" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-413" target="FWIDraDEKTNntkbHNwQt-414">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-413" value="cuantiles" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="1650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-414" value="quantile()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="1665" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-417" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=default;fontSize=12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="1305" width="20" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-418" value="&lt;b&gt;Generando viualizaciones con el pandas&lt;/b&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1990" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-421" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-419" target="FWIDraDEKTNntkbHNwQt-420">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-419" value="plot()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-420" value="Por defecto el método plot() genera graficos de líneas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="1910" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-423" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-422" target="FWIDraDEKTNntkbHNwQt-419">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-422" value="Gráfico de líneas" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1930" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-426" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-424" target="FWIDraDEKTNntkbHNwQt-425">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-424" value="Gráfico de dispersión" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="990" y="2010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-428" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-425" target="FWIDraDEKTNntkbHNwQt-427">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-425" value="scatter()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="2010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-427" value="El método scatter() del atributo plot es una de las alternativas para construir graficos de dispersión con Pandas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="2000" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-431" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-429" target="FWIDraDEKTNntkbHNwQt-430">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-429" value="Gráfico de sectores&lt;br&gt;(pizza)" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="990" y="2090" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-430" value="pie()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="2090" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-434" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-432" target="FWIDraDEKTNntkbHNwQt-433">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-432" value="Gráfico de barras" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="990" y="2170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-433" value="bar()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="2180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-437" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="FWIDraDEKTNntkbHNwQt-435" target="FWIDraDEKTNntkbHNwQt-436">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-435" value="Box plot" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="990" y="2240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-436" value="boxplot()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="2250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIDraDEKTNntkbHNwQt-438" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=default;fontSize=12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1920" width="20" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
